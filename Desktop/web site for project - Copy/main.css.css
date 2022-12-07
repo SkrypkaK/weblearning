@@ -1,0 +1,36 @@
+*{
+	margin: auto;
+	padding: 0;
+	max-width: 1200px;
+}
+header{
+	background-color: #18104f;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  margin: auto;
+
+}
+html{
+background-color:green;
+}
+.top_el{
+	display: inline-block;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 250px;
+}
+.h_img{
+	max-width: 175px;
+}
+div{
+	display: inline-block;
+}
+
+.contimg{
+	max-width: 200px;
+}
+
+header:first-child {
+    align-self: center;
